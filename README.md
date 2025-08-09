@@ -1,4 +1,4 @@
-# Quotes API
+# InspireAPI: A Dockerized Quote Service Platform
 
 A MERN stack application serving inspirational quotes through a RESTful API. Built with containerization and modern web development practices.
 
